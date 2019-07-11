@@ -1,0 +1,25 @@
+body{
+    background-color:#F5F8FA;
+}.nav{
+    margin-top: 5%;
+}
+
+a{
+    color:white;
+}
+a:hover{
+    color: gray;
+}
+.card-text{
+    text-align: left;
+}
+.card-header{
+    font-style: normal;
+    size: 20%;
+}
+.para{
+    text-align: left;
+}
+.para1{
+    text-align: left;
+}
